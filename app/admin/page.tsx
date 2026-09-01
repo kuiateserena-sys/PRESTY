@@ -333,7 +333,7 @@ export default function AdminDashboard() {
               <tr className="border-b border-black/[0.05] text-left dark:border-white/10">
 
                 <th className="px-7 py-4 text-[9px] font-medium uppercase tracking-[0.2em] text-gray-400">
-                  Clientes
+                  Cliente
                 </th>
 
                 <th className="px-7 py-4 text-[9px] font-medium uppercase tracking-[0.2em] text-gray-400">
